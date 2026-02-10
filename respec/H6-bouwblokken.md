@@ -39,7 +39,17 @@ faciliteren. Aanvankelijk zal het gaan over de volgende componenten:
 (semantiek), datamodellen en binnen het stelsel toegepaste ontologieën.
 - Een voorziening waardoor verschillende gegevensmodellen onderling gelinked kunnen worden.
 
-### data-infrastructuur componenten op basis van open standaarden
+### eGovERA mapping
+
+- Knowledge Discovery
+- API Discovery and Catalogue
+- Metadata Management
+- Authentication
+- Audit
+- Observability
+- Monitoring
+
+
 
 ## Data
 
@@ -47,17 +57,35 @@ Het Data bouwblok bevat die zaken die rondom data en datadiensten georganiseerd 
 
 <img src="./respec/media/bouwblok_data.png" alt="Bouwblok data" width="900">
 
+### eGovERA mapping
+
+- Dataspace Connector
+- Data Management (and a number of related ABB's)
+
 ## Rekenmodellen
 
 Het Rekenmodellen bouwblok bevat de specifieke zaken die nodig zijn voor het beschikbaar maken van Rekenmodellen (of Algoritmen) in een federatief, gedistribueerd systeem. 
 
 <img src="./respec/media/bouwblok_rekenmodules.png" alt="Bouwblok rekenmodellen" width="900">
 
+### eGovERA mapping
+
+- Data Analytics
+- Orchestration
+- Artificial Intelligence
+
+
 ## Visualisatie
 
 Het visualisatie bouwblok bevat de verschillende componenten om een Visualisatie te kunnen verzorgen. Dit kunnen 2D of 3D viewers zijn, maar ook Dasboards of andere visualisatie toepassingen. 
 
 <img src="./respec/media/bouwblok_visualisatie.png" alt="Bouwblok visualisatie" width="900">
+
+### eGovERA mapping
+
+- Business Intelligence
+- Human Interface
+
 
 ## Appstore
 
@@ -76,6 +104,9 @@ Validatie van modules wordt mogelijk door duidelijke toetsingscriteria op het ge
 
 <img src="./respec/media/appstore.png" alt="appstore" width="900">
 
+### eGovERA mapping
+
+De realisatie van een specifieke set nLDT-applicatieservices kan resulteren in een 'recept' dat beschikbaar is in een Appstore. Dit recept kan worden beschouwd als zijnde afgestemd op een eGovERA Solution Building Block, waarbij het voldoet aan specifieke interoperabiliteitsspecificaties die herbruikbaarheid en conformiteit met de Appstore-criteria waarborgen.
 
 
 --- 

@@ -1,6 +1,6 @@
 var documentConfig =
 {
-  title: "NLDT",
+  title: "nLDT",
   subtitle: "Architectuur",
   // shortName: "NLDT",
   // pubDomain: "geen",
@@ -9,16 +9,16 @@ var documentConfig =
   license: "cc-by",
   maxTocLevel: 3,
   // latestVersion: [
-  //   "https://docs.geostandaarden.nl/NLDT-Architectuur/"
+  //   "https://docs.geostandaarden.nl/nldt-architectuur/"
   // ],
-  publishDate: "2025-10-29",
-  publishVersion: "0.8.0",
+  publishDate: "2026-02-10",
+  publishVersion: "0.8.1",
   thisVersion: [
-    "https://geonovum.github.io/NLDT-Architectuur/"
+    "https://geonovum.github.io/nldt-architectuur/"
   ],
-  github: "https://github.com/geonovum/NLDT-Architectuur/",
-  issueBase: "https://github.com/geonovum/NLDT-Architectuur/issues/",
-  edDraftURI: "https://geonovum.github.io/NLDT-Architectuur/",
+  github: "https://github.com/geonovum/nldt-architectuur/",
+  issueBase: "https://github.com/geonovum/nldt-architectuur/issues/",
+  edDraftURI: "https://geonovum.github.io/nldt-architectuur/",
   authors: [
     {
       name: "Bart De Lathouwer",
@@ -95,6 +95,11 @@ var documentConfig =
             title: "L. Raes et al., DUET: A Framework for Building Interoperable and Trusted Digital Twins of Smart Cities",
             href: "https://ieeexplore.ieee.org/document/9362182",
             publisher: "IEEE Internet Computing, vol. 26, no. 3, pp. 43-50, 1 May-June 2022"
-        }
+        },
+  eGovERA: {
+    title: "eGovERA Business Agnostic Reference Architecture 6.1.0",
+    href: "https://interoperable-europe.ec.europa.eu/collection/european-interoperability-reference-architecture-eira/solution/egovera-business-agnostic-0/release/610",
+    date: "07-11-2024"
+  }
   }
 }

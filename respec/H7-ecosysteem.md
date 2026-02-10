@@ -32,7 +32,12 @@ FDS ontwikkelt zich tot een afsprakenstelsel dat het datapotentieel van verschil
 
 Daarmee voorziet het FDS in een basis stelsel waar zowel ZoN Datafundament als de NLDT op voortbouwen.
 
+## EU Dataspaces
 
-## EDIC
+Er zijn verschillende EU Dataspaces in ontwikkeling, zoals de Green Deal Dataspace, de Mobility Dataspace en de Health Dataspace.
 
-Deze referentiearchitectuur is ontstaan vanuit een Nederlandse context. We zien dat Europese ontwikkelingen zoals [[DUET]] en [[LDT]] dezelfde patronen beschrijven. Daarmee zijn er ook kansen om deze architectuur ook in te brengen in de Europese ontwikkelingen. Hiervoor is een Engelse vertaling gemaakt van dit [document](https://geonovum.github.io/NLDT-Architectuur/en).
+De exacte afspraken over interoperabiliteit tussen de diverse initiatieven zijn op het moment van schrijven van dit document nog onduidelijk. Desondanks zijn wij van mening dat de architectuurprincipes, capabilities en patronen die in de referentiearchitectuur worden beschreven, in lijn zijn met de verschillende dataspace initiatieven. Oplossingen die volgens de nLDT-architectuur worden ontwikkeld, zullen aansluiten bij de patronen die binnen deze dataspaces ontstaan.
+
+## LDT CitiVERSE EDIC
+
+Deze referentiearchitectuur is ontstaan vanuit een Nederlandse context. We zien dat Europese ontwikkelingen zoals [[DUET]] en [[LDT]] dezelfde patronen beschrijven. Daarmee zijn er ook kansen om deze architectuur ook in te brengen in de Europese ontwikkelingen. Hiervoor is een Engelse vertaling gemaakt van dit [document](https://geonovum.github.io/nldt-architectuur/en).

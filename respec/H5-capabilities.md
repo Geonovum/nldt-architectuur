@@ -21,12 +21,24 @@ In dit hoofdstuk worden op hoofdlijnen de waardestromen en capabilities beschrev
 
 ## Metamodel
 
-<img src="./respec/media/NLDT_archimate_metamodel.png" alt="archimate metamodel" width="900">
+<img src="./respec/media/NLDT_archimate_metamodel.png" alt="ArchiMate metamodel" width="900">
 
-archimate metamodel voor de NLDT architectuur. [online viewer](https://geonovum.github.io/NLDT-Architectuur/Archimate/html/index.html?view=id-68f0ee0b9d824121b8a04dc58af3d3ab)
+ArchiMate metamodel voor de NLDT architectuur. [online viewer](https://geonovum.github.io/nldt-architectuur/Archimate/html/index.html?view=id-68f0ee0b9d824121b8a04dc58af3d3ab)
 
-Bovenstaande afbeelding visualiseert het archimate metamodel voor de NLDT architectuur. Deze is opgebouwd uit motivational elements van archimate om de Kaders en richtlijnen uit te drukken. Verder is deze opgebouwd uit [capabilities](https://nora-begrippen.wikixl.nl/index.php/Id-24a3c495-0b7c-737a-187e-f2da6a318eb5) en [waardestromen](https://nora-begrippen.wikixl.nl/index.php/Id-2462fbbe-503b-0805-a587-fa013f9814d7) om de dienstverlening te beschrijven. De capabilities worden vervolgens in patronen uitgewerkt op basis van elementen uit de bedrijfs- en applicatielaag van archimate. Hoofdstuk 5 behandelt de waardestromen en capabilities, Hoofdstuk 6 behandelt de patronen van bedrijfs- en applicatieobjecten. 
+Bovenstaande afbeelding visualiseert het ArchiMate metamodel voor de NLDT architectuur. Deze is opgebouwd uit motivational elements van ArchiMate om de Kaders en richtlijnen uit te drukken. Verder is deze opgebouwd uit [capabilities](https://nora-begrippen.wikixl.nl/index.php/Id-24a3c495-0b7c-737a-187e-f2da6a318eb5) en [waardestromen](https://nora-begrippen.wikixl.nl/index.php/Id-2462fbbe-503b-0805-a587-fa013f9814d7) om de dienstverlening te beschrijven. De capabilities worden vervolgens in patronen uitgewerkt op basis van elementen uit de bedrijfs- en applicatielaag van ArchiMate. Hoofdstuk 5 behandelt de waardestromen en capabilities, Hoofdstuk 6 behandelt de patronen van bedrijfs- en applicatieobjecten. 
 
+## nLDT - eGovERA mapping
+
+<img src="./respec/media/nLDT-eGovERA-mapping.png" alt="nLDT - eGovERA mapping" width="900">
+
+Overzicht aansluiting van de nLDT architectuur op eGovERA
+
+De verschillende onderdelen van de nLDT-referentiearchitectuur kunnen worden gemapt op de eGovERA-bouwstenen. Een globale mapping staat in de bovenstaande weergave. Een meer gedetailleerde mapping is te vinden in het ArchiMate-model.
+- De motivatie en richtlijnen van de nLDT zijn afgestemd op de Shared Legal Content (Gedeelde Juridische Content).
+- De organisatorische invalshoek is afgestemd op de Shared Organisational Content (Gedeelde Organisatorische Content).
+- De nLDT-bouwblokken bevatten elementen die de Shared Knowledge Content (Gedeelde Kenniscontent) realiseren, terwijl alle bouwblokken aansluiten bij de Shared Application Content (Gedeelde Applicatiecontent).
+
+Deze mapping is gedaan op version 6.1.0 van de 'eGovERA Business Agnostic Reference Architecture' [[eGovERA]]
 
 ## Waardestromen
 
@@ -141,4 +153,4 @@ Identificatie maakt het ook mogelijk om systemen te personaliseren voor individu
 
 <img src="./respec/media/DT_Capabilities.png" alt="DT Capabilities" width="900">
 
-De online archimate view van de capabilities kan [hier](https://geonovum.github.io/NLDT-Architectuur/Archimate/html/index.html?view=id-eb1073502d06497cbfe4ed9ce6c3e98b) gevonden worden.
+De online ArchiMate view van de capabilities kan [hier](https://geonovum.github.io/nldt-architectuur/Archimate/html/index.html?view=id-eb1073502d06497cbfe4ed9ce6c3e98b) gevonden worden.

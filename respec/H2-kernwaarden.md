@@ -17,6 +17,8 @@ Afbeelding 1: kernwaarden
 
 De insteek van de kernwaarden en doelen in deze architectuur is gericht op het inzetten van Digitale Tweelingen in de Fysieke leefomgeving. We onderschrijven de kernwaarden en kwaliteitsdoelen van de NORA, maar richten ons hier specifiek op kernwaarden en doelen vanuit het NLDT perspectief. 
 
+De kernwaarden sluiten ook aan op de digitale rechten en principes zoals die beschreven staan in ['EU's Digital Decade 2030'](https://digital-strategy.ec.europa.eu/en/policies/digital-principles) 
+
 ## Doel
 
 ### Doelgericht op algemeen welzijn
