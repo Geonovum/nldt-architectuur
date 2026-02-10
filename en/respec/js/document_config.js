@@ -9,16 +9,16 @@ var documentConfig =
   license: "cc-by",
   maxTocLevel: 3,
   // latestVersion: [
-  //   "https://docs.geostandaarden.nl/NLDT-Architectuur/"
+  //   "https://docs.geostandaarden.nl/nldt-architectuur/"
   // ],
-  publishDate: "2025-10-29",
+  publishDate: "2026-02-10",
   publishVersion: "0.8.1",
   thisVersion: [
-    "https://geonovum.github.io/NLDT-Architectuur/en/"
+    "https://geonovum.github.io/nldt-architectuur/en/"
   ],
-  github: "https://github.com/geonovum/NLDT-Architectuur/",
-  issueBase: "https://github.com/geonovum/NLDT-Architectuur/issues/",
-  edDraftURI: "https://geonovum.github.io/NLDT-Architectuur/en/",
+  github: "https://github.com/geonovum/nldt-architectuur/",
+  issueBase: "https://github.com/geonovum/nldt-architectuur/issues/",
+  edDraftURI: "https://geonovum.github.io/nldt-architectuur/en/",
   authors: [
     {
       name: "Bart De Lathouwer",

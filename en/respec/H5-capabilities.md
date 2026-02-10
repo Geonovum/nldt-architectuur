@@ -24,7 +24,7 @@ In this chapter, the value streams and capabilities are broadly described that c
 
 <img src="./respec/media/NLDT-en_archimate_metamodel.png" alt="archimate metamodel" width="900">
 
-Archimate metamodel for the nLDT architecture. [online viewer](https://geonovum.github.io/NLDT-Architectuur/Archimate/html/index.html?view=id-a08c59e3541043cba2f2f63e81f08c2f)
+Archimate metamodel for the nLDT architecture. [online viewer](https://geonovum.github.io/nldt-architectuur/Archimate/html/index.html?view=id-a08c59e3541043cba2f2f63e81f08c2f)
 
 The above image visualises the Archimate metamodel for the nLDT architecture. This is built from motivational elements of Archimate to express frameworks and guidelines. Furthermore, it is built from capabilities and value streams to describe the service provision. The capabilities are then elaborated into patterns based on elements from the business and application layers of Archimate. Chapter 5 discusses the value streams and capabilities, Chapter 6 discusses the patterns of business and application objects.
 
@@ -38,6 +38,8 @@ The different components of the nLDT reference architecture can be mapped to eGo
   - The motivation and guidelines of the nLDT are aligned with the Shared Legal Content
   - The Organizational viewpoint is aligned with teh Shared Organisational Content
   - The nLDT building blocks contain elements that realize the Shared Knowledgde Content, while all the building blocks align with the Shared Application Content
+
+  This Alignment is done against version 6.1.0 of the eGovERA Business Agnostic Reference Architecture [[eGovERA]]
 
 ## Value Streams
 
@@ -137,4 +139,4 @@ Identification is a foundation of modern software systems that ensure efficient 
 
 <img src="./respec/media/DT_Capabilities-en.png" alt="DT Capabilities" width="900">
 
-The online Archimate view of the Capabilities can be found [here](https://geonovum.github.io/NLDT-Architectuur/Archimate/html/index.html?view=id-decf311e5f5b4e169cf844aa5c909d0d).
+The online Archimate view of the Capabilities can be found [here](https://geonovum.github.io/nldt-architectuur/Archimate/html/index.html?view=id-decf311e5f5b4e169cf844aa5c909d0d).

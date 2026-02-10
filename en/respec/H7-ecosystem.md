@@ -27,7 +27,7 @@ The Federated Data System (FDS) in the Netherlands focuses on public data exchan
 There are several EU Dataspace initiatives underway, like the Green Deal Dataspace, the Mobility Dataspace and the Health Dataspace.
 The exact interoperability arrangments between the various initiatives are unclear at the time of writing of this document. However, we feel that the Architectural Principles, Capabilities and Patterns described in the reference architecture are in line with the various Dataspace initiatives and solutions that are developed according to the nLDT architecture will be aligned to the patterns emerging in the Dataspaces.
 
-## LDT
+## LDT CitiVERSE EDIC
 
-This nLDT architecture is in line with earlier work done in [[LDT]] and [[DUET]] and builds on top of the patterns described in those publications.
+This nLDT architecture is in line with earlier work done in [[LDT]] and [[DUET]] and builds on top of the patterns described in those publications. This architecture is also a contribution to the LDT Citiverse EDIC.
 

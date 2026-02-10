@@ -23,7 +23,7 @@ The foundation consists of the necessary basic infrastructure and catalog functi
 
 <img src="./respec/media/buildingblock_foundation.png" alt="Building Block Foundation" width="900">
 
-#### Data infrastructure components based on Dataspace protocols
+### Data infrastructure components based on Dataspace protocols
 
 The various components ensure an robust handling of the exchange of data products, with guarantees for identification of participating organizations and a high degree of discoverability of data products. These components can be housed in a data center of a public or private service provider, with excellent network connections, that are under the management of public or private organizations. At a federated level, some facilities or components are needed that facilitate the exchange of data products. Initially, this will involve the following components:
 
@@ -34,7 +34,7 @@ The various components ensure an robust handling of the exchange of data product
 
 See the International DataSpace Association (IDSA) documentation for more information on the Dataspace Connectors and Dataspace Protocols.
 
-#### eGovERA Alignment
+### eGovERA Alignment
 
 - Knowledge Discovery
 - API Discovery and Catalogue
