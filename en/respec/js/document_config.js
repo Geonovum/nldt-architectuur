@@ -9,7 +9,7 @@ var documentConfig =
   license: "cc-by",
   maxTocLevel: 3,
   // latestVersion: [
-  //   "https://docs.geostandaarden.nl/nldt-architectuur/"
+  //   "https://docs.geostandaarden.nl/nldt-architectuur/en"
   // ],
   publishDate: "2026-02-10",
   publishVersion: "0.8.1",
